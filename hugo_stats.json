@@ -1,12 +1,10 @@
 {
   "htmlElements": {
     "tags": [
-      "!--",
       "!doctype",
       "a",
       "a\n",
       "body",
-      "br",
       "button\n",
       "div",
       "div\n",
@@ -16,9 +14,7 @@
       "h1\n",
       "head",
       "header",
-      "hr",
       "html",
-      "img",
       "img\n",
       "input",
       "input\n",
@@ -27,8 +23,6 @@
       "meta",
       "p",
       "p\n",
-      "strong",
-      "textarea\n",
       "title"
     ],
     "classes": [
@@ -64,8 +58,6 @@
       "max-w-screen-xl",
       "mb-6",
       "md:block",
-      "md:gap-10",
-      "md:grid-cols-2",
       "md:justify-center",
       "md:leading-relaxed",
       "md:leading-tight",
@@ -119,23 +111,17 @@
     "ids": [
       "brand-headline",
       "button-cta",
-      "contact-form",
       "content",
       "content-wrapper",
-      "email",
       "footer",
       "header",
       "header-inner-wrapper",
-      "imprint--privacy-policy",
+      "mailing-list",
       "main",
-      "message",
       "name",
       "newsletter-sign-up-form",
-      "prototype",
-      "stay-in-touch",
       "tagline-paragraph",
-      "teaser-image",
-      "the-future---today"
+      "teaser-image"
     ]
   }
 }
