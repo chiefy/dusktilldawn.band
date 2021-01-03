@@ -7,6 +7,15 @@ header_button_cta:
 teaser_image: "images/dusk_til_dawn_card.jpg" 
 ---
 
+# Audio
+
+Here are some free tracks from our Christmas recordings:
+
+  * [Blue Christmas](/audio/dusk_til_dawn-Blue_Christmas.mp3)
+  * [Feliz Navidad](/audio/dusk_til_dawn-Felize_Navidad.mp3)
+  * [Silent Night](/audio/dusk_til_dawn-Silent_Night.mp3)
+  * [White Christmas](/audio/dusk_til_dawn-White_Christmas.mp3)
+  
 # Mailing list
 
 Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Once we're playing live again, we'll let you know where we'll be at.

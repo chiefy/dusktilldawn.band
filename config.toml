@@ -41,7 +41,7 @@ title = "Dusk Till Dawn"
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
     title = "Dusk 'Til Dawn Band"
 
-    # hidedesignbyline = true
+    hidedesignbyline = true
 
     [params.meta]
         keywords = "band, rock, rockandroll, upstate ny, new york, albany, 50s, 60s, country, band-for-hire, cover band"
